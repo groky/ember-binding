@@ -3,6 +3,9 @@
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
+## NOTE
+NO RAILS Backend. I hope to add this in due course ==> or someone will submit a Pull Request... :-)
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
@@ -30,6 +33,8 @@ You will need the following things properly installed on your computer.
 Make use of the many generators for code, try `ember help generate` for more details
 
 ### Running Tests
+
+My apologies, there are no tests for this app. I wrote this very quickly just to demonstrate the binding
 
 * `ember test`
 * `ember test --server`
