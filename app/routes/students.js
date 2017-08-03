@@ -20,13 +20,13 @@ class Subject extends Ember.Object {
 let peterSubjects = [
   new Subject('Geography', 3),
   new Subject('Sprints', 2)
-]
+];
 
 let carterSubjects = [
   new Subject('Free throws', 1),
   new Subject('Push Ups', 4),
   new Subject('Math', 5)
-]
+];
 
 export default Ember.Route.extend({
   model() {

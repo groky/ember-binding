@@ -13,7 +13,6 @@ export default Ember.Component.extend({
 
     updateName(val) {
       this.set('name', val);
-      console.log(this.get('name'));
     },
     updateLastName(val) {
       this.set('lastName');
